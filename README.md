@@ -1,5 +1,6 @@
 # Dual_Degree_Project
-
+# Link for AUMIC Data
+https://drive.google.com/drive/folders/1DbnTuJpwJ9cCIkfjH4tbAKWHHZM1r10E
 # PyKineMod
 
 PyKineMod is a Python-based tool for kinetic model identification and parameter estimation using the Incremental Identification method proposed by Nirav et al. and Amrhein et al. This tool provides a flexible framework for defining chemical reactions, generating and specifying rate laws, and performing identification tasks to study the behavior of chemical systems using Concentration Data. It aims to determine the reaction mechanism of complex multiple reaction systems.
